@@ -11,8 +11,6 @@
 - Blinking KeyBoard
 
 </br>
-<h2>Check Live</h2>
-<a href = "k-master.netlify.app"></a>
 
 ---
 
