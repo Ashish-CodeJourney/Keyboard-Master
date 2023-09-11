@@ -12,7 +12,7 @@
 
 </br>
 ## Live Demo
-[Click here for the live demo](https://k-master.netlify.app/)
+[Click here for the live demo](k-master.netlify.app)
 
 ---
 
